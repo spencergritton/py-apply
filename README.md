@@ -23,3 +23,5 @@ Then you'll simply have to check a few boxes, click on your resume and cover let
 **Note: Each url waits for 30 seconds for you to fill out any extra info you may have missed. This time can be changed in line 33 of app.py**
 
 Feel free to use or fork this if it's helpful.
+
+A final note: This project was inspired by a reddit post from https://github.com/harshibar/
