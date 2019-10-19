@@ -24,4 +24,4 @@ Then you'll simply have to check a few boxes, click on your resume and cover let
 
 Feel free to use or fork this if it's helpful.
 
-A final note: This project was inspired by a reddit post from https://github.com/harshibar/
+A final note: This project was inspired by a reddit post from https://github.com/harshibar/ and uses a bit of code from one of their projects.
