@@ -15,7 +15,10 @@ You'll need selenium and python-docx I recommend using pip to install them.
 - pip3 install python-docx
 
 *Running the program:*<br>
-Fill in 'inputs/urls.txt' with urls of jobs you want to apply to. Then run app.py. For each url your cover letter in '/outputs/CoverLetter.docx' will be updated to the company and job title **NOTE: Job title turned off currently as I'm only applying to software engineering roles. To turn back on remove comment in line 19 of coverLetter.py**. Then you'll simply have to check a few boxes, click on your resume and cover letter, then click submit.
+Fill in 'inputs/urls.txt' with urls of jobs you want to apply to. Then run app.py. For each url your cover letter in '/outputs/CoverLetter.docx' will be updated to the company and job title 
+
+**NOTE: Job title turned off currently as I'm only applying to software engineering roles. To turn back on remove comment in line 19 of coverLetter.py**. 
+Then you'll simply have to check a few boxes, click on your resume and cover letter, then click submit.
 
 **Note: Each url waits for 30 seconds for you to fill out any extra info you may have missed. This time can be changed in line 33 of app.py**
 
